@@ -2,8 +2,11 @@ Hello, people!  👋
 
 I'm Carlos Lemos, Web developer graduated at Le Wagon's Batch 822 (Rio de Janeiro) in March 2022
 
-Currently working with Ruby, Ruby on Rails and JavaScript (among other things).
+Currently working with Ruby, Ruby on Rails and JavaScript.
 
+🤝 &nbsp; Connect with Me
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/carloseglemos)
 
 <div>
  <a href="https://github.com/carloseglemos">  
